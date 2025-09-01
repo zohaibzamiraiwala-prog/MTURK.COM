@@ -1,0 +1,16 @@
+[27-Aug-2025 13:28:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ZOHAIB' for key 'users.username' in /home/customer/www/rsoa161.millioncoders.net/public_html/MTURK.COM/signup.php:18
+Stack trace:
+#0 /home/customer/www/rsoa161.millioncoders.net/public_html/MTURK.COM/signup.php(18): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa161.millioncoders.net/public_html/MTURK.COM/signup.php on line 18
+[27-Aug-2025 13:28:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ZOHAIB' for key 'users.username' in /home/customer/www/rsoa161.millioncoders.net/public_html/MTURK.COM/signup.php:18
+Stack trace:
+#0 /home/customer/www/rsoa161.millioncoders.net/public_html/MTURK.COM/signup.php(18): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa161.millioncoders.net/public_html/MTURK.COM/signup.php on line 18
+[27-Aug-2025 13:29:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ZOHAIB' for key 'users.username' in /home/customer/www/rsoa161.millioncoders.net/public_html/MTURK.COM/signup.php:18
+Stack trace:
+#0 /home/customer/www/rsoa161.millioncoders.net/public_html/MTURK.COM/signup.php(18): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa161.millioncoders.net/public_html/MTURK.COM/signup.php on line 18
+ 
